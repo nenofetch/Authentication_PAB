@@ -2,6 +2,13 @@
     <string name="app_name">Authentication Page PAB</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="login_btn">Login</string>
-    <string name="register_btn">Register</string>
+    <string name="login_btn" translatable="false">Login</string>
+    <string name="register_btn" translatable="false">Register</string>
+    <string name="fkom_banner" translatable="false">FKOM Banner</string>
+    <string name="fkom">Welcome to FKOM Mobile App</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="or_sign_in">Or Sign In with</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="or_sign_up">Or Sign Up with</string>
 </resources>
