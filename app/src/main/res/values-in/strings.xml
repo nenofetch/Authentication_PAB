@@ -5,4 +5,6 @@
     <string name="fkom">Selamat Datang di FKOM Mobile App</string>
     <string name="or_sign_in">Atau masuk dengan</string>
     <string name="or_sign_up">Atau masuk dengan</string>
+    <string name="login_success">Login Sukses</string>
+    <string name="register_success">Register Sukses</string>
 </resources>
