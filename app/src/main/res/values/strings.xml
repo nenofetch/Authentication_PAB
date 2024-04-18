@@ -11,4 +11,7 @@
     <string name="or_sign_in">Or Sign In with</string>
     <string name="email" translatable="false">Email</string>
     <string name="or_sign_up">Or Sign Up with</string>
+    <string name="google_logo" translatable="false">Google Logo</string>
+    <string name="twitter_logo" translatable="false">Twitter Logo</string>
+    <string name="apple_logo" translatable="false">Apple Logo</string>
 </resources>
