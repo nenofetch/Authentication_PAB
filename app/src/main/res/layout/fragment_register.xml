@@ -103,7 +103,7 @@
                 android:layout_height="20dp" />
 
             <androidx.appcompat.widget.AppCompatButton
-                android:id="@+id/login_action"
+                android:id="@+id/register_action"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:background="@drawable/button_shape"
